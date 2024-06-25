@@ -34,7 +34,7 @@ input_data = {
         "Create a Gmail draft for me to edit of a letter from the perspective of a sentient parrot"
         " who is looking to collaborate on some research with her estranged friend, a cat."
         " The draft should include a valid 'To' header with the recipient's email address"
-        " (e.g., 'kiran@webtiga.com'). Under no circumstances may you send the message, however."
+        " (e.g., 'example@mail.com'). Under no circumstances may you send the message, however."
     )
 }
 agent_executor.invoke(
